@@ -1,3 +1,1 @@
-# working_codes
-A repo of my coding achievements.
-haha
+Help wanted.This gui calculator has basic math operations say add,subtract,divide,multiply,square root,power. It has a very good set of dynamic controls running in loops.Any contributions to make it have more functions is welcome and highly appreciated. 
